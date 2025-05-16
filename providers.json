@@ -7,7 +7,8 @@
             "emoji": 1,
             "subgroup": "",
             "prefix": "",
-            "User-Agent":"v2rayng"
+            "User-Agent":"v2rayng",
+            "ex-node-name": "网站|流量|剩余|过期|到期|失效|永久|访问|官方|欢迎"
         },
         {
             "url": "URL",
